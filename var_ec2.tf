@@ -1,11 +1,11 @@
 variable "accesskey" {
 type = string
-default = "AKIAXINDK773IJJQXMAZ"
+default = ""
 }
 
 variable "secretkey" {
 type = string
-default = "9FvUAfvc9lZN0mV6IQ8aO3TBJdFl6N0SNCVjdo5N"
+default = ""
 }
 
 variable "region" {
